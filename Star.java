@@ -1,3 +1,5 @@
+//Write a program to print given pattern.
+
 public class Star{
     public static void main(String args[]){
         int n=14;
