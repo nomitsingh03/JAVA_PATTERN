@@ -1,3 +1,5 @@
+//Write a program to print Triangle using star pattern.
+
 public class Triangle {
     public static void main(String[] args){
         int n=10;
