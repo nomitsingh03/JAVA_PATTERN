@@ -1,3 +1,5 @@
+//Write a program to print your name usin star pattern.
+
 public class Name {
     public static void main(String args[]){
         int n=10;
