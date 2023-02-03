@@ -1,3 +1,5 @@
+// program to print PW SKILLS using star pattern
+
 public class Pwskills{
     public static void main(String args[]){
         int n=8;
